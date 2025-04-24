@@ -60,10 +60,11 @@ Those requirements should be there to ensure that anyone can easily maintain the
 
 * **What is the motivation of the original initiators?**
 
-  @mrizzi and @ctron: We work at Red Hat on the [Trustification](https://github.com/trustification) project. Which
-  requires a lot of crates from this organization. Some require patches and fixes. We could do this in our own forks
-  and patch things up with "cargo patch". However, we believe it makes more sense to try coming up with a community
-  driven approach of a diverse set of people.
+  [@mrizzi](https://github.com/mrizzi) and [@ctron](https://github.com/ctron): We work at Red Hat on
+  the [Trustification](https://github.com/trustification) project. Which requires a lot of crates from this
+  organization. Some require patches and fixes. We could do this in our own forks and patch things up with "cargo
+  patch". However, we believe it makes more sense to try coming up with a community driven approach of a diverse set of
+  people.
 
 * **Why not move to an open-source foundation?**
 
