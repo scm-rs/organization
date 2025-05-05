@@ -10,6 +10,11 @@ keep things going.
 
 This repository specifically is there to host content of the organization itself.
 
+## Communication channels
+
+* [#scm-rs:matrix.org](https://matrix.to/#/#scm-rs:matrix.org)
+* [GitHub Discussions](https://github.com/orgs/scm-rs/discussions)
+
 ## Governance
 
 The idea is to keep things simple and efficient. On the other side, to create a diverse group of maintainers. Any
